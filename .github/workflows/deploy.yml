@@ -23,4 +23,4 @@ jobs:
           context: .
           push: true
           # Replace 'your-docker-id' with your actual Docker Hub username below
-          tags: your-docker-id/churn-prediction:latest
+          tags: keya05/churn-prediction:latest
